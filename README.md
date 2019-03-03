@@ -64,3 +64,6 @@ As a user, I would like to add filter to pho’s I upload
 - 
   #### Contribution
 - Pull Requests
+
+![cycle](docs/images/rails_cycle.png "rails_cycle")
+### source :codeacademy.com
