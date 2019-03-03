@@ -34,7 +34,6 @@ Remember to proceed in small steps! Getting confused? Make the steps even smalle
 ```
 So that I can share my life stories,  
 I want to view all posts containing photos
-
 As a user, 
 I want to post a photo 
 
