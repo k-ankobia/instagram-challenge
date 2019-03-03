@@ -50,7 +50,7 @@ I want to edit posts I upload
 As a user, 
 I want to delete photos if I choose to 
 
-As a user, I would like to add filter to pho’s I upload 
+As a user, I would like to add filter to photos I upload 
 
 
 ```
