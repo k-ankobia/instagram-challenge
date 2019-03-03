@@ -16,10 +16,13 @@
     <div class="container">
       <!-- logo -->
       <div class="logo">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="<%= root_path%>">
           <%= fa_stacked_icon "camera inverse", base: "circle"%>
           Welcome to Instagram
         </a>
+      </div>
+      <div class = "user-section">
+        <a href="<%= new_user_registration_path%>">  Sign Up <i class="fa fa-user-plus"></i></a>
       </div>
       <!-- search bar -->
       <div class="m-auto">
