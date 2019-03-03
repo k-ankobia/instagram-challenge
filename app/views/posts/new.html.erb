@@ -2,6 +2,11 @@
     <div class="form-group">
   <%= form.label :description %>
   <%= form.text_field :description %>
+  <%= form.file_field :image %>
+
+
+  <%= form.text_field :user_id, value: current_user.id, class:'d-none'%>
+
   </div >
 
 
