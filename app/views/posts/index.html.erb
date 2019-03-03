@@ -1,4 +1,10 @@
 <div class ="container">
-<h1>Welcome to Instagram</h1>
-<p>See Below for all posts</p>
+<% @posts.each do |post| %>
+  <p><%= post.description %></p>
+
+<% end %>
+
+<%= link_to new_post_path do %>
+  New post
+<% end %>
 </div>
